@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">KotAndroid</string>
     <string name="app_name_full">Android with Kotlin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="info">Info</string>
+    <string name="msgFinish">앱을 종료하시겠습니까?</string>
 </resources>

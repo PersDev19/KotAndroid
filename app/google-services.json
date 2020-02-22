@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053425608961",
+    "firebase_url": "https://kotandroid-37284.firebaseio.com",
+    "project_id": "kotandroid-37284",
+    "storage_bucket": "kotandroid-37284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053425608961:android:9d088e545bc3ada4585300",
+        "android_client_info": {
+          "package_name": "com.kmsr.app.kotandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053425608961-t7eldlo6tpue9ccajhfclrfg6thkhmtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kmsr.app.kotandroid",
+            "certificate_hash": "0497f4d9bdaf7de9da5ec62c5b735ea65dc07d9f"
+          }
+        },
+        {
+          "client_id": "1053425608961-mtjjmqjqnql5badqnhfia7tbf4q10pnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSaDjfusyJ_8GcxYm19T99Av0Km-Jxb3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053425608961-mtjjmqjqnql5badqnhfia7tbf4q10pnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
